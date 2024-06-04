@@ -3,13 +3,13 @@
 ## Project Overview
 
 ### Aim
-The objective of this project is to create a comprehensive dashboard for Waterloo University's student enrollment data. The dashboard <a href="https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard/commit/f51c3c1053ad0e9c359d4af3e12adc6b08e38f1f"></a> aims to provide valuable insights into enrollment trends, program distributions, faculty, campus, and other key metrics from the available dataset.
+The objective of this project is to create a comprehensive dashboard for Waterloo University's student enrollment data. The <a href="https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard/commit/f51c3c1053ad0e9c359d4af3e12adc6b08e38f1f"> dashboard </a>aims to provide valuable insights into enrollment trends, program distributions, faculty, campus, and other key metrics from the available dataset.
 
 ### Dataset Description
 The dataset contains detailed enrollment information for Waterloo University using 61953 data entries, covering various aspects such as fiscal years, term types, career levels, program levels, study years, faculties, program groupings, coop statuses, work terms, attendance types, visa statuses, and student headcounts. 
 
 ### Data Cleaing, preparation and Exploratory Data Analysis 
-Click here. <a href="https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard/blob/main/Waterloo_Uni_Enrollment.sql"></a>
+Click <a href="https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard/blob/main/Waterloo_Uni_Enrollment.sql"> here</a>.
 
 ## Results and Learnings
 
@@ -24,7 +24,7 @@ Click here. <a href="https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard/
 - Dashboard Creation: Gained experience in preparing data for visualization and interactive dashboard creation to showcase complex information into simple visuals.
 
 ## Conclusion
-The Waterloo University Enrollment Dashboard project provided a comprehensive analysis of enrollment data, enabling the extraction of key insights and trends. The cleaned and analyzed dataset serves as a valuable resource for understanding enrollment patterns and supporting strategic decision-making processes at Waterloo University. Developed Power BI Student Enrollment Dahsboard <a href="https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard/commit/f51c3c1053ad0e9c359d4af3e12adc6b08e38f1f"></a> comprehends the complex student enrollment information, treedns, and KPIs in a useful business insights.
+The Waterloo University Enrollment Dashboard project provided a comprehensive analysis of enrollment data, enabling the extraction of key insights and trends. The cleaned and analyzed dataset serves as a valuable resource for understanding enrollment patterns and supporting strategic decision-making processes at Waterloo University. Developed Power BI <a href="https://github.com/TrushtiBZ/Waterloo-Enrollment-Dashboard/commit/f51c3c1053ad0e9c359d4af3e12adc6b08e38f1f">Student Enrollment Dahsboard </a> comprehends the complex student enrollment information, treedns, and KPIs in a useful business insights.
 
 
 
